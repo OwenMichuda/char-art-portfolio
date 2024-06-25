@@ -1,10 +1,10 @@
 import React from 'react';
 
-const About = () => {
+const Publications = () => {
   return (
     <div style={styles.page}>
       <h2>About</h2>
-      <p>This is the about page.</p>
+      <p>This is the Publications page.</p>
     </div>
   );
 };
@@ -15,4 +15,4 @@ const styles = {
   },
 };
 
-export default About;
+export default Publications;
